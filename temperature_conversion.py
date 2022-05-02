@@ -11,7 +11,7 @@ def conversion():
     # input
     celsius_string = input("Enter a temperature (°C): ")
 
-    # process
+    # process & output
     try:
         celsius = float(celsius_string)
 
