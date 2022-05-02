@@ -2,7 +2,7 @@
 
 # Created by Aidan Lalonde-Novales
 # Created May 2022
-# This program coverts degrees celsius to degrees fahrenheit
+# This program converts degrees celsius to degrees fahrenheit
 
 
 def conversion():
